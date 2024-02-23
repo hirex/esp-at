@@ -113,3 +113,4 @@ esp-at 作为由 Espressif Systems (@[espressif](https://github.com/espressif/))
 - 其它系列
   - ESP-AT 将计划支持 ESP32-C5 系列芯片
   - ESP-AT 无计划支持 ESP32-S、ESP32-H 系列芯片
+
